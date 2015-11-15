@@ -1,0 +1,52 @@
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\AforgeTutorial.Form1.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\AforgeTutorial.Properties.Resources.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AForge.Video.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AForge.Video.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AForge.Video.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Debug\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\AforgeTutorial.Form1.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\AforgeTutorial.Properties.Resources.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Imaging.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Video.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Math.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Imaging.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Video.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Debug\AForge.Math.xml
+C:\Users\katie\Desktop\source\AforgeTutorial\obj\x86\Debug\AforgeTutorial.exe
+C:\Users\katie\Desktop\source\AforgeTutorial\obj\x86\Debug\AforgeTutorial.pdb
+C:\Users\katie\Desktop\source\AforgeTutorial\obj\x86\Debug\AforgeTutorial.csprojResolveAssemblyReference.cache
+C:\Users\katie\Desktop\source\AforgeTutorial\obj\x86\Debug\AforgeTutorial.Form1.resources
+C:\Users\katie\Desktop\source\AforgeTutorial\obj\x86\Debug\AforgeTutorial.Properties.Resources.resources
+C:\Users\katie\Desktop\source\AforgeTutorial\obj\x86\Debug\AforgeTutorial.csproj.GenerateResource.Cache
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AforgeTutorial.exe
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AforgeTutorial.pdb
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.dll
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Imaging.dll
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Video.dll
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Math.dll
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.xml
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Imaging.xml
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Video.xml
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\katie\Desktop\source\AforgeTutorial\bin\Debug\AForge.Math.xml

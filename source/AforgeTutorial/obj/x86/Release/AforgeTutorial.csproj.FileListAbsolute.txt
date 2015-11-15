@@ -1,0 +1,37 @@
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AForge.Video.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AForge.Video.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AForge.Video.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AForge.Video.DirectShow.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\AforgeTutorial.Form1.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\AforgeTutorial.Properties.Resources.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\Base\AforgeTutorial\AforgeTutorial\obj\x86\Release\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AforgeTutorial.exe
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AforgeTutorial.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Imaging.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Video.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Math.dll
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Imaging.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Video.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Video.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Video.DirectShow.pdb
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\bin\Release\AForge.Math.xml
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\AforgeTutorial.Form1.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\AforgeTutorial.Properties.Resources.resources
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Prem\Documents\Mesh\Aforge Tutorials\RGB to HSL Color Filter\AforgeTutorial\obj\x86\Release\ResGen.write.1.tlog
